@@ -580,8 +580,9 @@ border-radius: 5px;
 
     }
     .latestNews{
-        width: 98.2vw;
+        width: 99vw;
         height: 120vh;
+        margin: auto;
         text-align: center;
         background-color:   rgb(53 68 12 / .15);
         padding: 2rem;
@@ -650,8 +651,9 @@ position: relative;
     background-color: transparent;
     }
     .follow{
-        margin:  2rem 0;
-  width: 98%;
+    margin:  2rem 0;
+  width: 99%;
+  margin:  0 0.3rem;
   height: 60vh;
   text-align: center;
     }
